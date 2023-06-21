@@ -26,8 +26,10 @@ To spur further research in the field, we also created and release the first-of-
 ![framework](images/action_pipeline.png)
 
 ## InfAct Dataset
+[InfAct](https://coe.northeastern.edu/Research/AClab/InfAct/)
 <a name="infact"></a>
 *[Forthcoming.]*
+
 
 ## Environment
 <a name="environment"></a>
