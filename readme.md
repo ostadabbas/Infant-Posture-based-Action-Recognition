@@ -5,7 +5,7 @@ This is the official code repository for our paper:
 Huang X, Luan L, Hatamimajoumerd E, Wan M, Daneshvar KP, Obeid R, Ostadabbas S. Posture-based Infant Action Recognition in the Wild with Very Limited Data. *CVPR Workshop on Learning with Limited Labelled Data for Image and Video Understanding, 2023*.
 
 
-Contact: [Xiaofei Huang](xhuang@ece.neu.edu), [Sarah Ostadabbas](ostadabbas@ece.neu.edu)
+Contact: [Xiaofei Huang](xhuang@ece.neu.edu), [Lingfei Luan](lluan@bgsu.edu), [Sarah Ostadabbas](ostadabbas@ece.neu.edu)
 
 
 ### Table of contents
