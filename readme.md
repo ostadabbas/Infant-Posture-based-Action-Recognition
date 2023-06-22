@@ -26,7 +26,7 @@ To spur further research in the field, we also created and release the first-of-
 ![framework](images/action_pipeline.png)
 
 ## InfAct Dataset
-[InfAct](https://coe.northeastern.edu/Research/AClab/InfAct/)
+[InfAct](https://coe.northeastern.edu/Research/AClab/InfAct/InfAct.zip)
 Because of the copyright of Youtube videos, we only can provide the video links and annotations here. Please download them and process them to reconstruct our InfAct dataset. 
 
 
