@@ -26,8 +26,8 @@ To spur further research in the field, we also created and release the first-of-
 ![framework](images/action_pipeline.png)
 
 ## InfAct Dataset
-[InfAct](https://coe.northeastern.edu/Research/AClab/InfAct/InfAct.zip)
-Because of the copyright of Youtube videos, we only can provide the video links and annotations here. Please download them and process them to reconstruct our InfAct dataset. 
+
+Because of the copyright of Youtube videos, we only can provide the video links and annotations here. Please download them and process them to reconstruct our InfAct dataset. Link: [InfAct](https://coe.northeastern.edu/Research/AClab/InfAct/InfAct.zip)
 
 
 ## Environment
@@ -64,7 +64,7 @@ Clone this repo into a directory, which we will call ``${Action_ROOT}``. Then cr
 ## Instructions
 <a name="instructions"></a>
 ### Data Preparation
-Convert infant action videos into frame sets saved in the subfolder `frame_data` with the following structure. You can also download and use our [InfAct](#infact) dataset for testing.
+Convert infant action videos into frame sets saved in the subfolder `frame_data` with the following structure. You can also download and use our InfAct dataset for testing (see above for the link).
    ```
    ├──frame_data
    |    ├── vid_1
