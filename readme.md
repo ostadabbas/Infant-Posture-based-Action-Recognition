@@ -19,15 +19,15 @@ Contact: [Xiaofei Huang](xhuang@ece.neu.edu), [Sarah Ostadabbas](ostadabbas@ece.
 
 ## Introduction
 <a name="introduction"></a>
-In this work, we present a data-efficient pipeline for infant action recognition (illustrated below), based on the idea of modeling an action as a time sequence consisting of two different stable postures with a transition period between them. The postures are detected frame-wise from the estimated 2D and 3D infant body poses and the action sequence is segmented based on the posture-driven low-dimensional features of each frame.
+In this work, we present a data-efficient pipeline for infant action recognition (illustrated below) based on the idea of modeling an action as a time sequence consisting of two different stable postures with a transition period between them. The postures are detected frame-wise from the estimated 2D and 3D infant body poses, and the action sequence is segmented based on the posture-driven low-dimensional features of each frame.
 
-To spur further research in the field, we also created and release the first-of-its-kind infant action dataset—InfAct—consisting of 200 fully annotated home videos representing a wide range of common infant actions, intended as a public benchmark.
+To spur further research in the field, we also created and release the first-of-its-kind infant action dataset—InfAct—consisting of 200 fully annotated home videos representing a wide range of common infant actions intended as a public benchmark.
 
 ![framework](images/action_pipeline.png)
 
 ## InfAct Dataset
 
-Because of the copyright of Youtube videos, we only can provide the video links and annotations here. Please download them and process them to reconstruct our InfAct dataset. Link: [InfAct](https://coe.northeastern.edu/Research/AClab/InfAct/InfAct.zip)
+Because of the copyright of Youtube videos, we only can provide video links and annotations here. Please download them and process them to reconstruct our InfAct dataset. Link: [InfAct](https://coe.northeastern.edu/Research/AClab/InfAct/InfAct.zip)
 
 
 ## Environment
